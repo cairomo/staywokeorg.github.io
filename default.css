@@ -50,11 +50,9 @@ a:hover {
 }
 
 .container {
-    width:40%;
-    height:50%;
-    top:25%;
-    left:30%;
-    position:relative; /* might be a little weird */
+    height: 100%;
+    padding: 10% 25% 10% 25%;
+    position: relative;
     text-align: left;
 }
     
